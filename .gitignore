@@ -1,1 +1,3 @@
 .ipynb_checkpoints/*
+imdb_reviews/imdb_review_data.npz
+imdb_reviews/word_list.pkl
